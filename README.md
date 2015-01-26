@@ -1,6 +1,7 @@
 #Multi-Instance-Experiments
 
 By Gitte Vanwinckelen (gitte.vanwinckelen at cs.kuleuven.be)
+http://people.cs.kuleuven.be/~gitte.vanwinckelen/
 
 ##Overview
 
